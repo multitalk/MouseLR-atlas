@@ -1,0 +1,12 @@
+citHeader("Please cite Shao X (2023) for using MouseLRatlas")
+
+citEntry(
+  entry    = "Article",
+  title    = "A single-cell spatial-temporal transcriptomic atlas of liver regeneration under normal and fibrotic condition",
+  author = personList(
+             as.person("Xin Shao")
+             ),
+  journal  = "under submission",
+  year     = "2023",
+  )
+)
